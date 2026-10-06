@@ -144,4 +144,4 @@ The project may continue to be improved as I learn more about web development, G
 
 The **Facebook Clone Website** was a useful practice project for combining web development with Git version control. Building the project while learning Git helped me understand how developers can track changes, experiment with different branches, manage versions, and collaborate on software projects.
 
-This project represents one of my practical steps toward improving my **web development and software development skills**.
+This project represents one of my practical steps toward improving my **web development and software development skills**.....
